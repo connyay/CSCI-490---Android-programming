@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Tabbed Calc</string>
+<string name="bTitle">Amount:</string>
+<string name="bHint">Enter loan amount</string>
+<string name="iTitle">Amount:</string>
+<string name="iHint">Enter invested amount</string>
+<string name="rTitle">Rate:</string>
+<string name="rHint">Enter interest rate</string>
+<string name="tTitle">Time:</string>
+<string name="tHint">Enter time in years</string>
+<string name="rBtn">Clear</string>
+<string name="cBtn">Calculate</string>
+
+<string name="mTitle">Monthly payment:</string>
+<string name="totalTitle">Total payment:</string>
+<string name="total_I_Title">Final Value:</string>
+</resources>

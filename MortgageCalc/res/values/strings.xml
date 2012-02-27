@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MortgageCalc</string>
+    <string name="pTitle">Principle:</string>
+    <string name="pHint">Enter principle amount</string>
+    <string name="iTitle">Interest:</string>
+    <string name="iHint">Enter interest rate</string>
+    <string name="tTitle">Loan Term:</string>
+    <string name="tHint">Enter loan term</string>
+    <string name="rBtn">Reset</string>
+    <string name="cBtn">Calculate</string>
+
+</resources>
